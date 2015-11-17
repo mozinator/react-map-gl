@@ -21,6 +21,7 @@
 
 var assert = require('assert');
 var React = require('react');
+var ReactDOM = require('react-dom');
 var debounce = require('debounce');
 var r = require('r-dom');
 var d3 = require('d3');
